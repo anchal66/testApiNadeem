@@ -1,0 +1,5 @@
+http://localhost:8000/api/test
+
+http://localhost:8000/api/nadeem
+
+http://localhost:8000/api/nadeemList
